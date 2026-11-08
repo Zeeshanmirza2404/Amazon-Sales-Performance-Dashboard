@@ -10,6 +10,8 @@ The dashboard allows users to explore sales performance across different categor
 
 ## Dashboard Preview
 
+<img width="1829" height="850" alt="image" src="https://github.com/user-attachments/assets/94b99e94-e600-4720-a5c6-db9e4f6de88f" />
+
 ## Tools & Technologies
 
 - Microsoft Excel
