@@ -31,6 +31,8 @@ Amazon-Sales-Performance-Dashboard/
 │
 ├── Dashboard Preview/
 │   └── dashboard.png
+|
+├── Amazon Sales Performance Analysis.pdf
 │
 └── README.md
 ```
